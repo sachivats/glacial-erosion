@@ -4,6 +4,8 @@ Glacial erosion is the movement of sediments carried by glaciers. These sediment
 
 ## What is Glacial Erosion?
 
+![image](https://user-images.githubusercontent.com/66630745/85502936-19f88d80-b606-11ea-918f-f1f1b59e5de8.png)
+
 - Glaciers move from basins and steep mountain valleys.
 - Ice in the form of glaciers can erode the earth’s surface and create landforms. 
 - As glaciers move across the land (usually downhill on mountains and slopes.) They carry everything in their path (eg. grains of sand, huge boulders).
@@ -25,6 +27,8 @@ Glaciers cause erosion in 2 main ways:
 
 ## Examples of Glacial Erosion
 
+![image](https://user-images.githubusercontent.com/66630745/85502959-2250c880-b606-11ea-97a0-b85d4da34f5b.png)
+
 - Finger Lakes in the united states (New York) 
 - Carved long narrow deep inlets along the coast of Scandinavia
 - Erosion of Cape Cod Bay in Massachusetts 
@@ -40,29 +44,43 @@ Glaciers cause erosion in 2 main ways:
 
 ### Arêtes
 
+![image](https://user-images.githubusercontent.com/66630745/85502973-2aa90380-b606-11ea-8c33-6bdcd7cbbf69.png)
+
 Arêtes are jagged narrow ridges that are created when the walls of 2 glaciers meet. This leads to the erosion of both glaciers.
 
 ### Cirques
+
+![image](https://user-images.githubusercontent.com/66630745/85503139-8c696d80-b606-11ea-9527-a537f93102df.png)
 
 Cirques are created when glaciers erode the mountainside creating hollows with steep faces. As the glaciers erode the mountain they form a tilted bowl-like hollow.  
 
 ### Horns 
 
+![image](https://user-images.githubusercontent.com/66630745/85502997-3b597980-b606-11ea-8163-73cbdbbbe19c.png)
+
 Horns are created when several Cirque glaciers erode the mountain until a steep pointed peek with sharp mountain ridges are created.
 
 ### Trim Lines
+
+![image](https://user-images.githubusercontent.com/66630745/85503006-41e7f100-b606-11ea-8714-6ffcde5ff3af.png)
 
 When glaciers move along valleys they leave clear lines on the sides of mountains known as trim lines. The line is visible due to colour changes or changes in vegetation present on the rock.
 
 ### Roche moutonnée
 
+![image](https://user-images.githubusercontent.com/66630745/85503019-47453b80-b606-11ea-8db5-171c67165800.png)
+
 Roche moutonnée’s are created by the passing of glaciers resulting in symmetrical erosion forms. One side of the mountain is eroded by plucking and the other is by abrasion. 
 
 ### Hanging valley
 
+![image](https://user-images.githubusercontent.com/66630745/85503031-4f04e000-b606-11ea-9ecf-f33a422a461a.png)
+
 A hanging valley is a valley that is cut across by a deeper valley or cliff. In other words, it is a valley that leads to another valley below.
 
 ## Fun Fact
+
+![image](https://user-images.githubusercontent.com/66630745/85503047-562bee00-b606-11ea-8410-c73ea256c7db.png)
 
 The Matterhorn in Switzerland displays 3 types of glacial erosions  
 - Cirques 
